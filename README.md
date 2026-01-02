@@ -7,7 +7,7 @@ Planilha de simulação de investimento totalmente editavel para criação de ce
 Foi utilizado o excel com formulas básicas
 
 ## 🧐 Processo de Criação
-Incialmente criada com tabela de configuração e 
+Incialmente criada com tabela de configuração e em seguida tabelas informativas com parametros previamente definidos.
 
 ## 🚀 Resultados
-Um planilha simple e funcional para simular e testar cenários de investimento.
+Uma planilha simple e funcional para simular e testar cenários de investimento.
