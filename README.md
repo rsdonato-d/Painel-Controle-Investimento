@@ -1,7 +1,7 @@
 # Como simular e ter cenários de investimento numa planilha simples e de fácil configuração.
 
 ## 📒 Descrição
-Planilha de simulação de investimento totalmente editavel para criação de cenários de investimento.
+Planilha de simulação de investimento totalmente editável para criação de cenários em fundos imobiliários.
 
 ## 🤖 Tecnologias Utilizadas
 Foi utilizado o excel com formulas básicas
